@@ -16,7 +16,7 @@
     version: master
 - git:
     local-name: opencv3_catkin
-    uri: git@github.com:ethz-asl/opencv3_catkin.git
+    uri: git@github.com:i3drobotics/opencv3_catkin.git
     version: master
 - git:
     local-name: opengv_catkin
