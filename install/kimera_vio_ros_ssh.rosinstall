@@ -40,7 +40,7 @@
     version: master
 - git:
     local-name: Kimera-VIO
-    uri: git@github.com:MIT-SPARK/Kimera-VIO.git
+    uri: git@github.com:i3drobotics/Kimera-VIO.git
     version: master
 - git:
     local-name: Kimera-VIO-ROS

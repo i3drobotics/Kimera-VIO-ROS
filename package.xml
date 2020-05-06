@@ -13,6 +13,8 @@
   <buildtool_depend>catkin</buildtool_depend>
   <buildtool_depend>catkin_simple</buildtool_depend>
 
+  <buildtool_depend>opencv3_catkin</buildtool_depend>
+
   <!-- KimeraVIO needs opencv >= 3.3.1, yet ROS uses 3.2.0.
        Hacky way of avoiding error in KimeraVIO by linking to 3.4.2-->
   <depend>opencv3_catkin</depend>
