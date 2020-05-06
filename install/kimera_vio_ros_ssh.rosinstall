@@ -8,7 +8,7 @@
     version: master
 - git:
     local-name: kimera_rviz_markers
-    uri: git@github.com:ToniRV/kimera_rviz_markers.git
+    uri: git@github.com:i3drobotics/kimera_rviz_markers.git
     version: master
 - git:
     local-name: gtsam
@@ -44,7 +44,7 @@
     version: master
 - git:
     local-name: Kimera-VIO-ROS
-    uri: git@github.com:MIT-SPARK/Kimera-VIO-ROS.git
+    uri: git@github.com:i3drobotics/Kimera-VIO-ROS.git
     version: master
 - git:
     local-name: glog_catkin
